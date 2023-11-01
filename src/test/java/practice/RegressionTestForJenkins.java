@@ -11,6 +11,7 @@ public class RegressionTestForJenkins extends BaseClass {
 	
 	public void regressionDemo() {
 		System.out.println("This is sample Regression Test");
+	System.out.println("ok");
 	}
 
 }
